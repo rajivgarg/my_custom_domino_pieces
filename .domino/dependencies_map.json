@@ -5,20 +5,10 @@
             "requirements_file": "requirements_0.txt"
         },
         "pieces": [
-            "ExampleSleepPiece"
-        ],
-        "secrets": [],
-        "source_image": "ghcr.io/rajivgarg/my_custom_domino_pieces/new_repository_7f27827b:0.1.0-group0"
-    },
-    "group1": {
-        "dependency": {
-            "dockerfile": "Dockerfile_1",
-            "requirements_file": null
-        },
-        "pieces": [
+            "ExampleSleepPiece",
             "ExampleSineWavePiece"
         ],
         "secrets": [],
-        "source_image": "ghcr.io/rajivgarg/my_custom_domino_pieces/new_repository_7f27827b:0.1.0-group1"
+        "source_image": "ghcr.io/rajivgarg/my_custom_domino_pieces/new_repository_7f27827b:development-group0"
     }
 }
