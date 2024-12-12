@@ -1,0 +1,5 @@
+[repository]
+REGISTRY_NAME = "rajivgarg/my_custom_domino_pieces"
+REPOSITORY_NAME = "new_repository_7f27827b"
+REPOSITORY_LABEL = "enter-your-repository-label-here"
+VERSION = "0.1.0"
